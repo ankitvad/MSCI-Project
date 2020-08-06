@@ -1,7 +1,7 @@
 <h2>MSCI Final Project</h2>
 <hr>
 
-The files can be run by creating the appropriate dataset and running:
+The files can be run by creating the appropriate dataset and running:<br>
 <code>
 python train_continue.py train
 </code><br>
