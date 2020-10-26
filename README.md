@@ -11,3 +11,5 @@ python train_continue.py test [epoch]
 <code>
 python train_continue.py continue [last_saved_epoch]
 </code><br>
+
+HRED code needs to be fine tuned and updated.
